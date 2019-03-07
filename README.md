@@ -1,2 +1,2 @@
-# N-mode-Quantum-Tomography-Simulation-using-SQGT
+# Multi Mode Wigner Approximation Simulation using SQGT
 Released on this repository courtesy of Dr Christopher Ferrie
